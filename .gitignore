@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+### PyCharm (JetBrains) ###
+# Ignora toda a pasta de configuração da IDE
+.idea/
+# Se você quiser versionar os dicionários do projeto ou escopos específicos, descomente as linhas abaixo:
+# !.idea/dictionaries
+# !.idea/scopes
+
+# Temp folders
+reports
+results
+plots
+plots_fat
+logs
+
+# Temp files
+
+table_to_paper*
+data_for_plots.csv
+
